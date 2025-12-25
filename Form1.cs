@@ -1,5 +1,9 @@
 ﻿using Newtonsoft.Json.Linq;
+using System.Net;
 using System.Net.Http.Headers;
+using System.Net.Mail;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Group3_Test2
 {
@@ -80,6 +84,50 @@ namespace Group3_Test2
                 richTextBox1.AppendText($"ToTal Vol: {item.TotalVol}\n\n");
             }
         }
-    }
+        private async void button1_Click(object sender, EventArgs e)
+        {
+            await Test();
+        }
 
+        private void btnSendMail_Click(object sender, EventArgs e)
+        {
+            string toEmail = textBox1.Text.Trim();
+            if (string.IsNullOrWhiteSpace(toEmail))
+            {
+                MessageBox.Show("Nhập email người nhận trước.");
+                return;
+            }
+            if (string.IsNullOrWhiteSpace(richTextBox1.Text))
+            {
+                MessageBox.Show("Chưa có dữ liệu. Bấm 'Tìm kiếm' trước.");
+                return;
+            }
+            // 1) Lưu thành .txt =
+            string bin = AppDomain.CurrentDomain.BaseDirectory; //mặc định
+            string filePath = Path.Combine(bin, $"BaoCaoKLGD.txt");
+            File.WriteAllText(filePath, richTextBox1.Text, Encoding.UTF8);
+            // 2) Gửi Gmail
+            try
+            {
+                using var mail = new MailMessage();
+                mail.From = new MailAddress("group12.nt106.q14@gmail.com");
+                mail.To.Add(toEmail);
+                mail.Subject = $"Báo cáo khối lượng giao dịch";
+                mail.Body = "Đính kèm là file báo cáo khối lượng giao dịch (.txt).";
+                mail.Attachments.Add(new Attachment(filePath));
+                using var smtp = new SmtpClient("smtp.gmail.com", 587);
+                smtp.EnableSsl = true;
+                smtp.Credentials = new NetworkCredential(
+                    "group12.nt106.q14@gmail.com",
+                    "tmjx bacw rvsg dybr"
+                );
+                smtp.Send(mail);
+                MessageBox.Show("Gửi email thành công!");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Gửi email thất bại: " + ex.Message);
+            }
+        }
+    }
 }

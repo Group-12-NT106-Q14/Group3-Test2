@@ -1,0 +1,1000 @@
+﻿Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Nhựa An Phát Xanh
+Basic Price: 7950
+Lowest Price: 7920
+Highest Price: 8010
+AvrPrice: 7953
+Change: -20
+Per Change: -0,25
+ToTal Vol: 1113000
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Thủy sản MeKong
+Basic Price: 6950
+Lowest Price: 6950
+Highest Price: 7000
+AvrPrice: 6968
+Change: 50
+Per Change: 0,72
+ToTal Vol: 7300
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Tập Đoàn Tiên Sơn Thanh Hóa 
+Basic Price: 3350
+Lowest Price: 3320
+Highest Price: 3350
+AvrPrice: 3334
+Change: -30
+Per Change: -0,9
+ToTal Vol: 6600
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Đầu tư Nhãn hiệu Việt
+Basic Price: 12600
+Lowest Price: 13400
+Highest Price: 13400
+AvrPrice: 13400
+Change: 800
+Per Change: 6,35
+ToTal Vol: 800
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Dịch vụ Nông nghiệp Bình Thuận
+Basic Price: 3130
+Lowest Price: 3130
+Highest Price: 3240
+AvrPrice: 3179
+Change: 40
+Per Change: 1,28
+ToTal Vol: 75300
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Xuất nhập khẩu Thủy sản Bến Tre
+Basic Price: 68000
+Lowest Price: 67100
+Highest Price: 67900
+AvrPrice: 67491
+Change: -900
+Per Change: -1,32
+ToTal Vol: 4200
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: Ngân hàng TMCP Á Châu
+Basic Price: 24300
+Lowest Price: 24100
+Highest Price: 24600
+AvrPrice: 24352
+Change: -150
+Per Change: -0,62
+ToTal Vol: 5464200
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Đầu tư và Xây dựng Bình Dương ACC
+Basic Price: 13900
+Lowest Price: 13700
+Highest Price: 13900
+AvrPrice: 13777
+Change: 0
+Per Change: 0
+ToTal Vol: 12600
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Gỗ An Cường
+Basic Price: 35300
+Lowest Price: 35300
+Highest Price: 36000
+AvrPrice: 35670
+Change: 700
+Per Change: 1,98
+ToTal Vol: 16000
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Xuất nhập khẩu Thủy sản Cửu Long An Giang
+Basic Price: 14900
+Lowest Price: 14050
+Highest Price: 14850
+AvrPrice: 14198
+Change: -150
+Per Change: -1,01
+ToTal Vol: 20500
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Clever Group
+Basic Price: 9040
+Lowest Price: 8880
+Highest Price: 9000
+AvrPrice: 8954
+Change: -50
+Per Change: -0,55
+ToTal Vol: 2900
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Sơn Á Đông
+Basic Price: 23350
+Lowest Price: 23450
+Highest Price: 23700
+AvrPrice: 23592
+Change: 300
+Per Change: 1,28
+ToTal Vol: 5400
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Damsan
+Basic Price: 8010
+Lowest Price: 7900
+Highest Price: 8070
+AvrPrice: 7943
+Change: -50
+Per Change: -0,62
+ToTal Vol: 41200
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Xuất nhập khẩu Nông sản Thực phẩm An Giang
+Basic Price: 12200
+Lowest Price: 12100
+Highest Price: 12250
+AvrPrice: 12189
+Change: -50
+Per Change: -0,41
+ToTal Vol: 112200
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Đầu tư và Phát triển Bất động sản An Gia
+Basic Price: 14400
+Lowest Price: 14300
+Highest Price: 14500
+AvrPrice: 14357
+Change: -100
+Per Change: -0,69
+ToTal Vol: 412800
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Chứng khoán Agribank
+Basic Price: 16500
+Lowest Price: 16400
+Highest Price: 16800
+AvrPrice: 16594
+Change: 0
+Per Change: 0
+ToTal Vol: 698900
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Nam Việt
+Basic Price: 26850
+Lowest Price: 26700
+Highest Price: 27100
+AvrPrice: 26826
+Change: -50
+Per Change: -0,19
+ToTal Vol: 863700
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Chứng khoán APG
+Basic Price: 10450
+Lowest Price: 10350
+Highest Price: 10500
+AvrPrice: 10387
+Change: -100
+Per Change: -0,96
+ToTal Vol: 69100
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Tập đoàn An Phát Holdings
+Basic Price: 6350
+Lowest Price: 6240
+Highest Price: 6350
+AvrPrice: 6285
+Change: -90
+Per Change: -1,42
+ToTal Vol: 372300
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Tập đoàn ASG
+Basic Price: 16950
+Lowest Price: 16950
+Highest Price: 16950
+AvrPrice: 0
+Change: 0
+Per Change: 0
+ToTal Vol: 0
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Tập đoàn Sao Mai
+Basic Price: 6600
+Lowest Price: 6580
+Highest Price: 6640
+AvrPrice: 6595
+Change: -20
+Per Change: -0,3
+ToTal Vol: 479900
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Tập đoàn Dầu khí An Pha
+Basic Price: 4690
+Lowest Price: 4620
+Highest Price: 4710
+AvrPrice: 4670
+Change: 0
+Per Change: 0
+ToTal Vol: 25100
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Dịch vụ Hàng không Taseco
+Basic Price: 75800
+Lowest Price: 75800
+Highest Price: 77700
+AvrPrice: 76580
+Change: 1900
+Per Change: 2,51
+ToTal Vol: 1500
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Nông nghiệp BAF Việt Nam
+Basic Price: 37000
+Lowest Price: 36500
+Highest Price: 37300
+AvrPrice: 36996
+Change: 50
+Per Change: 0,14
+ToTal Vol: 3050900
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Bibica
+Basic Price: 62000
+Lowest Price: 60000
+Highest Price: 66300
+AvrPrice: 62191
+Change: -2000
+Per Change: -3,23
+ToTal Vol: 1400
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Xây dựng & Giao thông Becamex
+Basic Price: 10750
+Lowest Price: 10350
+Highest Price: 10800
+AvrPrice: 10666
+Change: 0
+Per Change: 0
+ToTal Vol: 10400
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Tập đoàn Bamboo Capital
+Basic Price: 2530
+Lowest Price: 2530
+Highest Price: 2530
+AvrPrice: 0
+Change: 0
+Per Change: 0
+ToTal Vol: 0
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: Tập đoàn Đầu tư và Phát triển Công nghiệp Becamex - CTCP
+Basic Price: 60400
+Lowest Price: 60300
+Highest Price: 60800
+AvrPrice: 60534
+Change: 200
+Per Change: 0,33
+ToTal Vol: 61400
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Phân bón Bình Điền
+Basic Price: 42650
+Lowest Price: 42500
+Highest Price: 42900
+AvrPrice: 42666
+Change: 100
+Per Change: 0,23
+ToTal Vol: 65900
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: Tổng Công ty cổ phần Bia - Rượu - Nước giải khát Hà Nội
+Basic Price: 31150
+Lowest Price: 31100
+Highest Price: 31150
+AvrPrice: 31125
+Change: 0
+Per Change: 0
+ToTal Vol: 800
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: Tổng Công ty cổ phần Bảo hiểm Ngân hàng Đầu tư và Phát triển Việt Nam
+Basic Price: 22350
+Lowest Price: 22000
+Highest Price: 22400
+AvrPrice: 22202
+Change: -200
+Per Change: -0,89
+ToTal Vol: 34400
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: Ngân hàng TMCP Đầu tư và Phát triển Việt Nam
+Basic Price: 38400
+Lowest Price: 38350
+Highest Price: 38950
+AvrPrice: 38592
+Change: 50
+Per Change: 0,13
+ToTal Vol: 2432400
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Đầu tư BKG Việt Nam
+Basic Price: 2950
+Lowest Price: 2940
+Highest Price: 3000
+AvrPrice: 2968
+Change: -10
+Per Change: -0,34
+ToTal Vol: 32900
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Khoáng sản Bình Định
+Basic Price: 15250
+Lowest Price: 15200
+Highest Price: 15450
+AvrPrice: 15298
+Change: 50
+Per Change: 0,33
+ToTal Vol: 8800
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: Tổng Công ty cổ phần Bảo Minh
+Basic Price: 17750
+Lowest Price: 17750
+Highest Price: 17850
+AvrPrice: 17779
+Change: 0
+Per Change: 0
+ToTal Vol: 64300
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Nhựa Bình Minh
+Basic Price: 176100
+Lowest Price: 174000
+Highest Price: 179000
+AvrPrice: 176309
+Change: 1900
+Per Change: 1,08
+ToTal Vol: 103100
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Cao su Bến Thành
+Basic Price: 12500
+Lowest Price: 12500
+Highest Price: 12500
+AvrPrice: 0
+Change: 0
+Per Change: 0
+ToTal Vol: 0
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Chứng khoán BIDV
+Basic Price: 38500
+Lowest Price: 38150
+Highest Price: 38800
+AvrPrice: 38436
+Change: -300
+Per Change: -0,78
+ToTal Vol: 279700
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Lọc hóa Dầu Bình Sơn
+Basic Price: 16150
+Lowest Price: 15850
+Highest Price: 16250
+AvrPrice: 16038
+Change: -100
+Per Change: -0,62
+ToTal Vol: 4316300
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Nhiệt điện Bà Rịa
+Basic Price: 9100
+Lowest Price: 8990
+Highest Price: 9100
+AvrPrice: 9039
+Change: -100
+Per Change: -1,1
+ToTal Vol: 29300
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Thương mại Dịch vụ Bến Thành
+Basic Price: 34000
+Lowest Price: 34000
+Highest Price: 34000
+AvrPrice: 0
+Change: 0
+Per Change: 0
+ToTal Vol: 0
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: Tập đoàn Bảo Việt
+Basic Price: 56000
+Lowest Price: 54600
+Highest Price: 56000
+AvrPrice: 55384
+Change: -400
+Per Change: -0,71
+ToTal Vol: 208500
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP - Tổng công ty nước - môi trường Bình Dương
+Basic Price: 42950
+Lowest Price: 43000
+Highest Price: 44200
+AvrPrice: 43411
+Change: 1250
+Per Change: 2,91
+ToTal Vol: 150700
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Đầu tư và Xây dựng 3-2
+Basic Price: 23500
+Lowest Price: 22800
+Highest Price: 23950
+AvrPrice: 23377
+Change: -450
+Per Change: -1,91
+ToTal Vol: 69000
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Xây dựng 47
+Basic Price: 8890
+Lowest Price: 8880
+Highest Price: 9000
+AvrPrice: 8898
+Change: 110
+Per Change: 1,24
+ToTal Vol: 19900
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Xây dựng CDC
+Basic Price: 11950
+Lowest Price: 11900
+Highest Price: 12000
+AvrPrice: 11952
+Change: 0
+Per Change: 0
+ToTal Vol: 10100
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Đầu tư Phát triển Công nghiệp Thương mại Củ Chi
+Basic Price: 26900
+Lowest Price: 26900
+Highest Price: 26900
+AvrPrice: 0
+Change: 0
+Per Change: 0
+ToTal Vol: 0
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Đầu tư và Phát triển Đô thị Dầu khí Cửu Long
+Basic Price: 6150
+Lowest Price: 6110
+Highest Price: 6140
+AvrPrice: 6128
+Change: -10
+Per Change: -0,16
+ToTal Vol: 19700
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Chương Dương
+Basic Price: 24900
+Lowest Price: 24600
+Highest Price: 25200
+AvrPrice: 24894
+Change: -200
+Per Change: -0,8
+ToTal Vol: 207300
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Thủy điện Miền Trung
+Basic Price: 29500
+Lowest Price: 29300
+Highest Price: 29500
+AvrPrice: 29382
+Change: -150
+Per Change: -0,51
+ToTal Vol: 6800
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP COMA 18
+Basic Price: 8850
+Lowest Price: 8810
+Highest Price: 9000
+AvrPrice: 8897
+Change: 10
+Per Change: 0,11
+ToTal Vol: 31300
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Đầu tư Hạ tầng Kỹ thuật Thành phố Hồ Chí Minh
+Basic Price: 23250
+Lowest Price: 22700
+Highest Price: 23600
+AvrPrice: 23103
+Change: -350
+Per Change: -1,51
+ToTal Vol: 12972500
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Tập đoàn CIC
+Basic Price: 10750
+Lowest Price: 10500
+Highest Price: 10750
+AvrPrice: 10612
+Change: -200
+Per Change: -1,86
+ToTal Vol: 58400
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Cát Lợi
+Basic Price: 57900
+Lowest Price: 57900
+Highest Price: 57900
+AvrPrice: 0
+Change: 0
+Per Change: 0
+ToTal Vol: 0
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Cảng Cát Lái
+Basic Price: 30600
+Lowest Price: 30400
+Highest Price: 30650
+AvrPrice: 30537
+Change: -150
+Per Change: -0,49
+ToTal Vol: 6100
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Cấp nước Chợ Lớn
+Basic Price: 42800
+Lowest Price: 42800
+Highest Price: 42800
+AvrPrice: 0
+Change: 0
+Per Change: 0
+ToTal Vol: 0
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Tập đoàn Công nghệ CMC
+Basic Price: 35200
+Lowest Price: 34900
+Highest Price: 35450
+AvrPrice: 35089
+Change: -200
+Per Change: -0,57
+ToTal Vol: 210400
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Thương nghiệp Cà Mau
+Basic Price: 8390
+Lowest Price: 8390
+Highest Price: 8390
+AvrPrice: 0
+Change: 0
+Per Change: 0
+ToTal Vol: 0
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Camimex Group
+Basic Price: 6350
+Lowest Price: 6330
+Highest Price: 6390
+AvrPrice: 6361
+Change: 0
+Per Change: 0
+ToTal Vol: 74800
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP CNG Việt Nam
+Basic Price: 24200
+Lowest Price: 23850
+Highest Price: 24100
+AvrPrice: 23988
+Change: -200
+Per Change: -0,83
+ToTal Vol: 33800
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Vật tư - Xăng Dầu
+Basic Price: 29800
+Lowest Price: 29800
+Highest Price: 29800
+AvrPrice: 0
+Change: 0
+Per Change: 0
+ToTal Vol: 0
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Create Capital Việt Nam
+Basic Price: 9400
+Lowest Price: 9120
+Highest Price: 9300
+AvrPrice: 9160
+Change: -200
+Per Change: -2,13
+ToTal Vol: 558800
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Bất động sản Thế Kỷ
+Basic Price: 9000
+Lowest Price: 8610
+Highest Price: 9000
+AvrPrice: 8822
+Change: -300
+Per Change: -3,33
+ToTal Vol: 706900
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Tập đoàn Bất động sản CRV
+Basic Price: 29850
+Lowest Price: 29700
+Highest Price: 29700
+AvrPrice: 29700
+Change: -150
+Per Change: -0,5
+ToTal Vol: 600
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Công nghiệp Cao su Miền Nam
+Basic Price: 13200
+Lowest Price: 12850
+Highest Price: 13300
+AvrPrice: 13059
+Change: -300
+Per Change: -2,27
+ToTal Vol: 155700
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Hóa chất Cơ bản Miền Nam
+Basic Price: 28000
+Lowest Price: 27700
+Highest Price: 28150
+AvrPrice: 27866
+Change: -200
+Per Change: -0,71
+ToTal Vol: 227100
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Xây dựng Coteccons
+Basic Price: 78300
+Lowest Price: 77500
+Highest Price: 78800
+AvrPrice: 78211
+Change: -300
+Per Change: -0,38
+ToTal Vol: 263800
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP City Auto
+Basic Price: 19000
+Lowest Price: 18950
+Highest Price: 19200
+AvrPrice: 19046
+Change: 100
+Per Change: 0,53
+ToTal Vol: 314117
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: Ngân hàng TMCP Công Thương Việt Nam
+Basic Price: 35300
+Lowest Price: 35350
+Highest Price: 36450
+AvrPrice: 35861
+Change: 50
+Per Change: 0,14
+ToTal Vol: 12410000
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Đầu tư Phát triển Cường Thuận IDICO
+Basic Price: 22700
+Lowest Price: 22300
+Highest Price: 22800
+AvrPrice: 22522
+Change: -300
+Per Change: -1,32
+ToTal Vol: 211300
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: Tổng Công ty cổ phần Công trình Viettel
+Basic Price: 83500
+Lowest Price: 83000
+Highest Price: 84000
+AvrPrice: 83435
+Change: 200
+Per Change: 0,24
+ToTal Vol: 181600
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Chứng khoán VietinBank
+Basic Price: 34800
+Lowest Price: 34450
+Highest Price: 35250
+AvrPrice: 34795
+Change: -350
+Per Change: -1,01
+ToTal Vol: 647500
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP CMC
+Basic Price: 27350
+Lowest Price: 27950
+Highest Price: 27950
+AvrPrice: 27950
+Change: 600
+Per Change: 2,19
+ToTal Vol: 100
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Phát triển Đô thị Công nghiệp số 2
+Basic Price: 34800
+Lowest Price: 34500
+Highest Price: 34800
+AvrPrice: 34731
+Change: -100
+Per Change: -0,29
+ToTal Vol: 47500
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Tập đoàn Khách sạn Đông Á
+Basic Price: 3730
+Lowest Price: 3710
+Highest Price: 3740
+AvrPrice: 3713
+Change: -20
+Per Change: -0,54
+ToTal Vol: 76000
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Đầu tư du lịch và Phát triển Thủy sản
+Basic Price: 8600
+Lowest Price: 8600
+Highest Price: 8900
+AvrPrice: 8775
+Change: 180
+Per Change: 2,09
+ToTal Vol: 2300
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Tập đoàn Dabaco Việt Nam
+Basic Price: 28400
+Lowest Price: 28000
+Highest Price: 28550
+AvrPrice: 28257
+Change: -300
+Per Change: -1,06
+ToTal Vol: 3307900
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Dược - Trang thiết bị Y tế Bình Định (Bidiphar)
+Basic Price: 48300
+Lowest Price: 48000
+Highest Price: 48200
+AvrPrice: 48050
+Change: -150
+Per Change: -0,31
+ToTal Vol: 1042700
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Dược phẩm Bến Tre
+Basic Price: 11250
+Lowest Price: 11150
+Highest Price: 11250
+AvrPrice: 11217
+Change: -100
+Per Change: -0,89
+ToTal Vol: 1900
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP DICERA Holdings
+Basic Price: 10550
+Lowest Price: 10400
+Highest Price: 10650
+AvrPrice: 10547
+Change: -100
+Per Change: -0,95
+ToTal Vol: 188200
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Dược phẩm Cửu Long
+Basic Price: 42500
+Lowest Price: 41000
+Highest Price: 43000
+AvrPrice: 41930
+Change: 300
+Per Change: 0,71
+ToTal Vol: 685500
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP - Tổng công ty Phân bón Dầu khí Cà Mau
+Basic Price: 32100
+Lowest Price: 32100
+Highest Price: 32550
+AvrPrice: 32263
+Change: 0
+Per Change: 0
+ToTal Vol: 692600
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Tập đoàn Hóa chất Đức Giang
+Basic Price: 65000
+Lowest Price: 63500
+Highest Price: 67000
+AvrPrice: 65246
+Change: -100
+Per Change: -0,15
+ToTal Vol: 5178300
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Thế Giới Số
+Basic Price: 40000
+Lowest Price: 39450
+Highest Price: 40600
+AvrPrice: 39796
+Change: -250
+Per Change: -0,63
+ToTal Vol: 926500
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Hóa An
+Basic Price: 66900
+Lowest Price: 66000
+Highest Price: 69900
+AvrPrice: 68024
+Change: 1600
+Per Change: 2,39
+ToTal Vol: 253100
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Đông Hải Bến Tre
+Basic Price: 33900
+Lowest Price: 32950
+Highest Price: 33900
+AvrPrice: 33307
+Change: -800
+Per Change: -2,36
+ToTal Vol: 366000
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Dược Hậu Giang
+Basic Price: 101100
+Lowest Price: 101100
+Highest Price: 101800
+AvrPrice: 101378
+Change: 300
+Per Change: 0,3
+ToTal Vol: 16000
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Thương mại và Khai thác Khoáng sản Dương Hiếu
+Basic Price: 6100
+Lowest Price: 6190
+Highest Price: 6250
+AvrPrice: 6210
+Change: 150
+Per Change: 2,46
+ToTal Vol: 300
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: Tổng Công ty cổ phần Đầu tư Phát triển Xây dựng
+Basic Price: 18200
+Lowest Price: 17850
+Highest Price: 18450
+AvrPrice: 18135
+Change: -200
+Per Change: -1,1
+ToTal Vol: 6301500
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Tập đoàn Đức Long Gia Lai
+Basic Price: 2630
+Lowest Price: 2610
+Highest Price: 2650
+AvrPrice: 2623
+Change: -10
+Per Change: -0,38
+ToTal Vol: 747500
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Xuất nhập khẩu Y Tế DOMESCO
+Basic Price: 59900
+Lowest Price: 59000
+Highest Price: 59000
+AvrPrice: 59000
+Change: -900
+Per Change: -1,5
+ToTal Vol: 1100
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Tập đoàn Đạt Phương
+Basic Price: 40800
+Lowest Price: 39500
+Highest Price: 41050
+AvrPrice: 40052
+Change: -1250
+Per Change: -3,06
+ToTal Vol: 989600
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: Tổng Công ty Phân bón và Hóa chất Dầu khí - CTCP
+Basic Price: 22350
+Lowest Price: 22150
+Highest Price: 22600
+AvrPrice: 22327
+Change: -150
+Per Change: -0,67
+ToTal Vol: 1140800
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Cao su Đồng Phú
+Basic Price: 37000
+Lowest Price: 36900
+Highest Price: 37100
+AvrPrice: 37020
+Change: 0
+Per Change: 0
+ToTal Vol: 181300
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Tập đoàn Điện Quang
+Basic Price: 10200
+Lowest Price: 10200
+Highest Price: 10600
+AvrPrice: 10300
+Change: 0
+Per Change: 0
+ToTal Vol: 6100
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Cao su Đà Nẵng
+Basic Price: 14900
+Lowest Price: 14800
+Highest Price: 14900
+AvrPrice: 14827
+Change: -50
+Per Change: -0,34
+ToTal Vol: 117900
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP DRH Holdings
+Basic Price: 2390
+Lowest Price: 2360
+Highest Price: 2430
+AvrPrice: 2389
+Change: -30
+Per Change: -1,26
+ToTal Vol: 290800
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Thủy điện - Điện Lực 3
+Basic Price: 46500
+Lowest Price: 46400
+Highest Price: 47500
+AvrPrice: 46538
+Change: -100
+Per Change: -0,22
+ToTal Vol: 9300
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Chứng khoán DSC
+Basic Price: 15250
+Lowest Price: 15000
+Highest Price: 15300
+AvrPrice: 15147
+Change: -100
+Per Change: -0,66
+ToTal Vol: 6600
+
+Trading Date: 12/24/2025 17:00:00
+Stock Name: CTCP Chứng khoán DNSE
+Basic Price: 26800
+Lowest Price: 26650
+Highest Price: 26950
+AvrPrice: 26779
+Change: -100
+Per Change: -0,37
+ToTal Vol: 414400
+
