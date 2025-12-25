@@ -1,3 +1,4 @@
+﻿using Newtonsoft.Json.Linq;
 using System.Net.Http.Headers;
 
 namespace Group3_Test2
@@ -34,5 +35,51 @@ namespace Group3_Test2
             public double PerChange { get; set; }
             public long TotalVol { get; set; }
         }
+
+        private async Task Test()
+        {
+            string url = "https://finance.vietstock.vn/data/KQGDThongKeGiaPaging";
+            if (!int.TryParse(tb_Size.Text, out int pageSize) || pageSize <= 0) pageSize = 100;
+            string date = dateTimePicker1.Value.ToString("yyyy-MM-dd");
+            // form-url-encoded 
+            var form = new Dictionary<string, string>
+            {
+                ["page"] = "1",
+                ["pageSize"] = pageSize.ToString(),
+                ["catID"] = "1",
+                ["date"] = date,
+                ["__RequestVerificationToken"] = FormToken
+            };
+            using var content = new FormUrlEncodedContent(form);
+            HttpResponseMessage response = await client.PostAsync(url, content);
+            string body = await response.Content.ReadAsStringAsync();
+            // Nếu server trả HTML
+            if (body.TrimStart().StartsWith("<"))
+            {
+                MessageBox.Show("API không trả JSON mà trả HTML (do token/cookie hết hạn hoặc request không hợp lệ).");
+                return;
+            }
+            response.EnsureSuccessStatusCode();
+            //Response là mảng, data nằm ở phần tử thứ 3 (index = 2)
+            JArray root = JArray.Parse(body);
+            var data = root.Count > 2 ? root[2].ToObject<List<DataStructure>>() : new List<DataStructure>();
+            // Hiển thị
+            richTextBox1.Clear();
+            listView1.Items.Clear();
+            foreach (var item in data)
+            {
+                listView1.Items.Add(new ListViewItem(item.FinanceURL ?? ""));
+                richTextBox1.AppendText($"Trading Date: {item.TradingDate}\n");
+                richTextBox1.AppendText($"Stock Name: {item.StockName}\n");
+                richTextBox1.AppendText($"Basic Price: {item.BasicPrice}\n");
+                richTextBox1.AppendText($"Lowest Price: {item.LowestPrice}\n");
+                richTextBox1.AppendText($"Highest Price: {item.HighestPrice}\n");
+                richTextBox1.AppendText($"AvrPrice: {item.AvrPrice}\n");
+                richTextBox1.AppendText($"Change: {item.Change}\n");
+                richTextBox1.AppendText($"Per Change: {item.PerChange}\n");
+                richTextBox1.AppendText($"ToTal Vol: {item.TotalVol}\n\n");
+            }
+        }
     }
+
 }

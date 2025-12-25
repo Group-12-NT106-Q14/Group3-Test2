@@ -114,23 +114,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HI PC\\.nuget\\packages\\": {},
+    "C:\\Users\\TRAN VAN TAI\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TH\\THITRUONGCHUNGLKHOANG\\Group3-Test2\\Group3-Test2.csproj",
+      "projectUniqueName": "D:\\CoVua\\test2\\Group3-Test2\\Group3-Test2.csproj",
       "projectName": "Group3-Test2",
-      "projectPath": "D:\\TH\\THITRUONGCHUNGLKHOANG\\Group3-Test2\\Group3-Test2.csproj",
-      "packagesPath": "C:\\Users\\HI PC\\.nuget\\packages\\",
-      "outputPath": "D:\\TH\\THITRUONGCHUNGLKHOANG\\Group3-Test2\\obj\\",
+      "projectPath": "D:\\CoVua\\test2\\Group3-Test2\\Group3-Test2.csproj",
+      "packagesPath": "C:\\Users\\TRAN VAN TAI\\.nuget\\packages\\",
+      "outputPath": "D:\\CoVua\\test2\\Group3-Test2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\HI PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\TRAN VAN TAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -191,7 +191,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
