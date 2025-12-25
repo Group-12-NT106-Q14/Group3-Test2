@@ -18,5 +18,21 @@ namespace Group3_Test2
                 client.DefaultRequestHeaders.TryAddWithoutValidation("Cookie", $"__RequestVerificationToken={CookieToken};");
             }
         }
+        public class DataStructure
+        {
+            public string TradingDate { get; set; }
+            public string StockCode { get; set; }
+            public string FinanceURL { get; set; }
+            public string StockName { get; set; }
+            public int BasicPrice { get; set; }
+            public int OpenPrice { get; set; }
+            public int ClosePrice { get; set; }
+            public int HighestPrice { get; set; }
+            public int LowestPrice { get; set; }
+            public int AvrPrice { get; set; }
+            public int Change { get; set; }
+            public double PerChange { get; set; }
+            public long TotalVol { get; set; }
+        }
     }
 }
