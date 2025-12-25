@@ -53,6 +53,7 @@ namespace Group3_Test2
             panelTop.Padding = new Padding(12);
             panelTop.Size = new Size(1466, 84);
             panelTop.TabIndex = 1;
+            panelTop.Paint += panelTop_Paint;
             // 
             // tableTop
             // 
@@ -136,6 +137,7 @@ namespace Group3_Test2
             label3.TabIndex = 4;
             label3.Text = "Email";
             label3.TextAlign = ContentAlignment.MiddleLeft;
+            label3.Click += label3_Click;
             // 
             // textBox1
             // 
@@ -202,6 +204,7 @@ namespace Group3_Test2
             listView1.TabIndex = 0;
             listView1.UseCompatibleStateImageBehavior = false;
             listView1.View = View.Details;
+            listView1.SelectedIndexChanged += listView1_SelectedIndexChanged;
             // 
             // columnHeader1
             // 
@@ -231,6 +234,7 @@ namespace Group3_Test2
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Thị trường chứng khoán";
+            Load += Form1_Load_1;
             panelTop.ResumeLayout(false);
             tableTop.ResumeLayout(false);
             tableTop.PerformLayout();

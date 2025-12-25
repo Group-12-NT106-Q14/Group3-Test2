@@ -2,13 +2,46 @@
 using System.Net;
 using System.Net.Http.Headers;
 using System.Net.Mail;
+using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
+using System.Threading;
+using System.Windows.Forms;
 
 namespace Group3_Test2
 {
     public partial class Form1 : Form
     {
+        TcpClient clients;
+        NetworkStream stream;
+
+        private void Form1_Load_1(object sender, EventArgs e)
+        {
+            clients = new TcpClient();
+            clients.Connect("127.0.0.1", 9999);
+
+            stream = clients.GetStream();
+
+            Thread t = new Thread(Receive);
+            t.IsBackground = true;
+            t.Start();
+        }
+        private void Receive()
+        {
+            byte[] buffer = new byte[1024];
+            while (true)
+            {
+                int bytes = stream.Read(buffer, 0, buffer.Length);
+                if (bytes == 0) break;
+
+                string msg = Encoding.UTF8.GetString(buffer, 0, bytes);
+                Invoke(new Action(() =>
+                {
+                    MessageBox.Show("Thông báo từ Server:\n" + msg);
+                }));
+            }
+        }
+
         private static readonly HttpClient client = new HttpClient();
         private const string CookieToken = "itgcdMQgkBrwE23iTQaHSqsHtp3oy7mZJtkaJhP_MB9yPkbWA1HrEPVYSyki9vmPjjlCz4n4TlitXwVpPMw-Sze8jP77B7Iqueof9kyzWA41";
         private const string FormToken = "FlJYEcyZa8OLStfreEueXwMT31d_2A2DLbxAvLM7jUx2LLUUmTawidlEpWv9g_bYc-EQumtJ1IXbLCBwaCn4tROsHpybrUSGNcAlUOJCvic1";
@@ -129,5 +162,22 @@ namespace Group3_Test2
                 MessageBox.Show("Gửi email thất bại: " + ex.Message);
             }
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panelTop_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        
     }
 }
